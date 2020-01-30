@@ -1,5 +1,4 @@
 # MessageTranform
-Playing with tokenization, parsing, and message formatting
 
 ## Install
 I'm using direnv with `ruby-2.6.3`
